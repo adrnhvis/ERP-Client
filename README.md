@@ -89,6 +89,6 @@ Klik Run (Shift + F10) untuk menjalankan aplikasi di emulator atau perangkat fis
 
 ## 👤 Author
 
-**Adrian**  
+**Adrian Havis**  
 Mahasiswa D3 Manajemen Informatika  
 *Repository GitHub:* [@adrnhvis](https://github.com/adrnhvis)
